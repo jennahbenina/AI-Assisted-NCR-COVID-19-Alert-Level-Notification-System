@@ -1,0 +1,14 @@
+#InDemandPh Artificial Intelligence 101
+Group 4 Case Study
+
+Virtual Case Study: AI-Assisted NCR COVID-19 Alert Level Notification System
+
+LEADER: Flores, Zander Allen S.
+
+PROGRAMMERS:
+Andres, Menchie M.
+Fajardo, Ma. Jennah Benina C.
+
+MEMBERS:
+Badad, Dex E.
+Pelayo, Dulce C.
