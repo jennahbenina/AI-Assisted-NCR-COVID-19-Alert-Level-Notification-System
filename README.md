@@ -1,0 +1,1 @@
+Developed an AI-assisted notification system using Python and Google Colab libraries to help LGUs and businesses anticipate COVID-19 lockdowns based on health facility utilization. Performed data cleaning, preparation, and analysis using Google Sheets and Excel, while coordinating team progress and ensuring project milestones were delivered on schedule.
